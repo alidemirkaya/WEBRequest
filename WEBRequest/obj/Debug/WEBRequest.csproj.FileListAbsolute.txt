@@ -1,0 +1,10 @@
+C:\Users\ali.demirkaya\source\repos\WEBRequest\WEBRequest\bin\Debug\WEBRequest.exe.config
+C:\Users\ali.demirkaya\source\repos\WEBRequest\WEBRequest\bin\Debug\WEBRequest.exe
+C:\Users\ali.demirkaya\source\repos\WEBRequest\WEBRequest\bin\Debug\WEBRequest.pdb
+C:\Users\ali.demirkaya\source\repos\WEBRequest\WEBRequest\obj\Debug\WEBRequest.csprojAssemblyReference.cache
+C:\Users\ali.demirkaya\source\repos\WEBRequest\WEBRequest\obj\Debug\WEBRequest.csproj.CoreCompileInputs.cache
+C:\Users\ali.demirkaya\source\repos\WEBRequest\WEBRequest\obj\Debug\WEBRequest.exe
+C:\Users\ali.demirkaya\source\repos\WEBRequest\WEBRequest\obj\Debug\WEBRequest.pdb
+C:\Users\ali.demirkaya\source\repos\WEBRequest\WEBRequest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ali.demirkaya\source\repos\WEBRequest\WEBRequest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ali.demirkaya\source\repos\WEBRequest\WEBRequest\obj\Debug\WEBRequest.csproj.CopyComplete
